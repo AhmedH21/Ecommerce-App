@@ -1,16 +1,24 @@
-# e_commerceapp
 
-A new Flutter project.
 
-## Getting Started
+## Ecommerce App
 
-This project is a starting point for a Flutter application.
+using :
+- Firestore Cloud Database
+- Firebase Auth
+- GetX Statemangement
+- MVVM Pattern
+- Clean Code
+# Screens of The App :
 
-A few resources to get you started if this is your first Flutter project:
+![photo1631738179](https://user-images.githubusercontent.com/83150642/133506163-f4f69a98-b701-4a9a-b4fe-a16ba85f914d.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![photo1631738179 (1)](https://user-images.githubusercontent.com/83150642/133506746-dbc5c051-17cb-41b3-8653-428fc860bf4a.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo1631738179 (5)](https://user-images.githubusercontent.com/83150642/133506778-d1a90e53-0d1d-45a9-a833-d61fae1eb7a0.jpeg)
+
+![photo1631738179 (4)](https://user-images.githubusercontent.com/83150642/133506786-f584c643-b0f8-41bf-8fe6-b936b7648e71.jpeg)
+
+![photo1631738179 (3)](https://user-images.githubusercontent.com/83150642/133506790-32bd3550-a891-4408-926e-d5cc21c4ad62.jpeg)
+
+![photo1631738179 (2)](https://user-images.githubusercontent.com/83150642/133506791-f18d2a2b-b552-4dda-a70b-5061ec2d7895.jpeg)
+
